@@ -1,5 +1,26 @@
 # 🧑‍💻 My Portfolio
 
+
+<h1 align="center">Hi 👋, I'm Athul</h1>
+<h3 align="center">A passionate frontend developer and machine learning enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/Athul82812">
+    <img src="https://komarev.com/ghpvc/?username=Athul82812&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+## 🌐 My Portfolio
+
+Check out my [personal portfolio](https://athul82812.github.io/portfolio/) to learn more about me and my projects!
+
+---
+
+### 🚀 About Me
+...
+
+
+
 Welcome to my personal portfolio! This is a fully responsive, interactive website showcasing my work, skills, and contact information.
 
 🔗 **Live Website:** [athul82812.github.io/portfolio](https://athul82812.github.io/portfolio/)
